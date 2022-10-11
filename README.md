@@ -1,6 +1,6 @@
 # grafana-frc-scouting
 
-An FRC Scouting solution using Grafana as a dashboard for strategy and scouting data
+An FRC Scouting low-code no-code solution for meaningful insights using Grafana as a dashboard for strategy and scouting
 
 ## Overview
 
