@@ -8,6 +8,11 @@ Scouting is a very important aspect of FRC and FIRST based games and challenges 
 
 ## Collecting Data
 
+Collecting data for scouting is done by 2 main agendas; a simple `Google Form` along with a `Google Sheets` for actual data representation, and a custom application like [Manto](https://github.com/pooriaahmadi/manto).
+
+The two have a lot of differences, more advanced or mature teams tend to make custom apps because of experience, but even then only if the scale of the team allows it, an app can be hard to maintain down the line and depends on the expertise of the team can prove to be difficult to handle throughout the games.
+
+On the other hand, a simple `Google Form` can be a bit hard to read and for some new teams may be easier to access but the amount of generated data can be overwhelming and pretty hard to process when on the spot.
 
 ## Analysing Data
 
